@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jangdawit@gmail.com**
 
-- 📝 My blog **[Visit!](https://dawitblog.tistory.com/)
+- 📝 My blog **[Visit!](https://dawitblog.tistory.com/)**
 
 
 <h3 align="left">Languages and Tools:</h3>
