@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm passionate developer, David Jang!</h1>
 <h3 align="center">A Developer who want to make imagination a reality.</h3>
 
+
+- 🏫 I am majoring in computer engineering at Inha University.
+
 - 🌱 I’m currently learning **Javascript,Nodejs and MongoDB**
 
 - 📫 How to reach me **jangdawit@gmail.com**
