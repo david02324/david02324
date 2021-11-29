@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm passionate developer, David Jang!</h1>
-<h3 align="center">A Developer who want to make imagination a reality.</h3>
+<h1 align="center">Hi 👋, I'm a passionate developer, David Jang!</h1>
+<h3 align="center">A Developer who wants to make imagination a reality.</h3>
 
 
 - 🏫 I am majoring in computer engineering at Inha University.
