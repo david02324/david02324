@@ -4,7 +4,7 @@
 
 - 🏫 I am majoring in computer engineering at Inha University.
 
-- 🌱 I’m currently learning **Javascript(ES6), NestJS and AWS**
+- 🌱 I’m currently learning **Golang*
 
 - 📫 How to reach me **jangdawit@gmail.com**
 
