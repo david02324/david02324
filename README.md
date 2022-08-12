@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋, I'm a passionate developer, David Jang!</h1>
-<h3 align="center">A Developer who wants to make imagination reality.</h3>
+<h1 align="center">Hi, there! 👋</h1>
 
+- 🏫 I took a leave of absence from college, and I'm working at Channel Corp
 
-- 🏫 I am majoring in computer engineering at Inha University.
-
-- 🌱 I’m currently learning **Golang, Elasticsearch, and AWS lambda**
+- 🌱 I usually use Java♨️, Go🐞
 
 - 📫 How to reach me **jangdawit@gmail.com**
-
-- 📝 My blog 👉👉 **[Visit!](https://dawitblog.tistory.com/)**
-
